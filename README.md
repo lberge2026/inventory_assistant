@@ -1,0 +1,1 @@
+This is an inventory reorder assistant that allows the user to test different stock levels and costs to calculate measures such as Weeks of Cover and Reorder Cost/Quantity. It also determines whether the user should reorder using logic.
