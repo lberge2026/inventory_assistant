@@ -1,6 +1,6 @@
 let itemName = "HDMI Cable";
 let unitCost = 3.00;
-let currentStock = 200;
+let currentStock = 60;
 let reorderLevel = 70;
 let targetStock = 250;
 let weeklyDemand = 30;
